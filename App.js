@@ -6,7 +6,7 @@ export default function App() {
   const [gbp, setGbp] = useState(null);
   const [xau, setXau] = useState(null);
 
-  const API = "https://YOUR-RENDER-URL.onrender.com";
+  const API = "https://signal-engine-sfx9.onrender.com";
 
   const fetchSignals = async () => {
     try {
