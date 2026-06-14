@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "Forex AI Dashboard",
+    "slug": "forex-ai-frontend",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"]
+  }
+}
